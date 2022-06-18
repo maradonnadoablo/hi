@@ -1,0 +1,82 @@
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+ul li{ list-style: none;}
+h1,h2,h3,h4,h5,h6{font-size: inherit;font-weight: 400;}
+
+
+
+header{
+    width: 1600px;;
+    display: flex;
+    height: 122px;
+    background-color:#F3F5F9;
+    align-items: center;
+}
+.header__img {
+
+}
+.header__img1{
+    Width:16.71px;
+    Height:26px;
+    margin:0px 13px 0px 29px;
+}
+.header__img2{
+    Width:35px;
+    Height:26px;
+}
+
+
+.header__text1 {
+    margin:0px 13px 0px 21px;
+}
+.header__text2 {
+    margin:0px 29px 0px 21px;
+}
+.header__text3 {
+    
+
+}
+.header__text4 {
+}
+.header__text5 {
+    margin:0px 21px 0px 0px;
+}
+.cheet1 {
+}
+.cheet1__content {
+    display: flex;
+}
+.header__a{
+    margin:0px 24px 0px 13px;
+}
+.cheet1__content__flex-element1 {
+}
+.cheet1__content__flex-element1__text {
+}
+.cheet1__content__flex-element1__button {
+}
+.cheet1__content__flex-element1__flexwrapper {
+}
+.flexwrapper__block1 {
+}
+.flexwrapper__block1__text1 {
+}
+.flexwrapper__block1__text2 {
+}
+.flexprapper__block2 {
+}
+.flexprapper__block2__text1 {
+}
+.flexprapper__block2__text2 {
+}
+.flexwrapper__block3 {
+}
+.flexwrapper__block3__text1 {
+}
+.flexwrapper__block3__text2 {
+}
+.cheet1__content__flex-element2 {
+}
